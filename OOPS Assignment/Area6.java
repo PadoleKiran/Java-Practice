@@ -19,7 +19,7 @@ class Area{
     }
 }
 
-public class Area5 {
+public class Area6 {
     public static void main(String[] area){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter value of radius :");
